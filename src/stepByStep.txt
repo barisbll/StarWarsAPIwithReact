@@ -1,0 +1,15 @@
+1- Make showPlanets component and display all the planets with all the information
+2- Style these showPlanet in an beatiful way
+__________________________________________________
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+3- Make showPlanet toggle when pressed
+4- Make showPersons and showSpecies and design them on the same way
+5- Make custom stylings  for each component's one property (exp: terrains for the planets)
+6- Make a good styling for buttons and starwars
+7- Add css animation for the components
+8- Share it on github
+
+
+
+name, birthYear, height, gender

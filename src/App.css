@@ -1,0 +1,37 @@
+body {
+  background-color: #000000;
+}
+
+.App {
+  min-width: 100%;
+  box-sizing: border-box;
+}
+
+.Content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: space-around;
+}
+
+.Buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 50%;
+  height: 30%;
+  border: 2px solid black;
+  margin: 30px auto;
+  border-radius: 30px;
+}
+
+.Buttons button {
+  height: 10vh;
+  margin: 20px;
+}
+
+.App h1 {
+  text-align: center;
+  color: #ffe81f;
+}
